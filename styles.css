@@ -16,6 +16,11 @@ a:hover {
 	justify-content: center;
 }
 
+.title-text {
+	font-family: 'Great Vibes', cursive;
+	font-size: xxx-large;
+}
+
 .row-container {
 	/* height: ;
     /* width: ; */
